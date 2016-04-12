@@ -1,2 +1,2 @@
 # Hello-World-
-Just trying to figure all of this out.
+I'm new to programming and plan to apply myself to learning it.
